@@ -10,7 +10,7 @@ public class HashMapTest {
        hm.put("张三",23);
         Object zhangsan = hm.get("张三");
         System.out.println(zhangsan.toString());
-
+        System.out.println("杨小洲是煞笔");
 
     }
 }
