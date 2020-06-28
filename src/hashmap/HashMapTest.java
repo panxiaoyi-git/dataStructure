@@ -12,5 +12,8 @@ public class HashMapTest {
         System.out.println(zhangsan.toString());
         System.out.println("杨小洲是煞笔");
         System.out.println(zhangsan.toString());
+        System.out.println("杨小洲是煞笔");
+        System.out.println("杨小洲是煞笔");
+
     }
 }
