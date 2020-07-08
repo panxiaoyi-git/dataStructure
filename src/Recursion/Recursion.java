@@ -25,5 +25,6 @@ public class Recursion {
 
         }
         System.out.println(n);
+        System.out.println(22222);
     }
 }
