@@ -15,7 +15,7 @@ public class HashMapTest {
         System.out.println("杨小洲是煞笔");
         System.out.println(1111);
         System.out.println(2222);
-        System.out.println(3333);
+        System.out.println("fuck");
 
     }
 }
